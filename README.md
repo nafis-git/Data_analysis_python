@@ -1,3 +1,3 @@
 # Data_analysis_python
 
-- caluclating median and standard deviation of a data frame 
+- caluclating median and standard deviation of a dataframe, data is uploaded 'Sensor_readings.csv' 
